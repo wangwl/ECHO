@@ -1,0 +1,15 @@
+GO,Description,_LogP_NK-cell0,_LogP_NK-cell1,_LogP_NK-cell2,_LogP_NK-cell3,_LogP_Tc-Mem2,_LogP_Tc-Naive0,_LogP_Th-Mem3
+GO:0002696,positive regulation of leukocyte activation,0.0,0.0,0.0,0.0,-4.207345654927321,0.0,-6.954895085819232
+GO:0042269,regulation of natural killer cell mediated cytotoxicity,0.0,0.0,0.0,0.0,-6.753831728591932,0.0,0.0
+GO:1903131,mononuclear cell differentiation,0.0,0.0,0.0,0.0,0.0,-5.878127982457537,-4.786028885867249
+GO:0007200,phospholipase C-activating G protein-coupled receptor signaling pathway,0.0,0.0,0.0,-4.536190583272314,0.0,0.0,0.0
+GO:0002695,negative regulation of leukocyte activation,0.0,0.0,0.0,-3.983823131169579,0.0,0.0,0.0
+R-HSA-1280218,Adaptive Immune System,0.0,0.0,-4.458579339599737,-3.811283441584967,0.0,0.0,0.0
+GO:0045807,positive regulation of endocytosis,-2.122366251950427,0.0,0.0,0.0,0.0,0.0,0.0
+GO:0042391,regulation of membrane potential,-2.207033718011953,0.0,0.0,0.0,0.0,0.0,0.0
+GO:0098609,cell-cell adhesion,-3.3279901255208806,0.0,0.0,0.0,0.0,0.0,0.0
+GO:0010975,regulation of neuron projection development,-4.773073411906467,0.0,0.0,0.0,0.0,0.0,0.0
+GO:0006911,"phagocytosis, engulfment",-4.105161558281222,0.0,0.0,0.0,0.0,0.0,0.0
+GO:0001775,cell activation,0.0,-5.260028337396078,0.0,-7.769458509991913,-6.720704956985615,-6.303771762830191,-5.7284647726212965
+GO:0002252,immune effector process,0.0,-8.263713528358792,0.0,-5.785467616041818,-3.8953083102289394,0.0,-4.429203601005086
+GO:0002250,adaptive immune response,0.0,-9.999590130644613,-4.401875022184032,-6.586378605695141,-3.481032837005539,0.0,0.0
