@@ -1,5 +1,6 @@
 # Preprocessing
 coloc_preprocessing.ipynb
+
 The processed gwas catalog can be downloaded from figshare ([https://figshare.com/articles/dataset/gwas_catalog_202406/26210795](https://figshare.com/articles/dataset/gwas_catalog_202406/26210795))
 
 # Run coloc
@@ -80,4 +81,5 @@ df.loc[(df.PP4>=0.8) & (df.n_snps >= 20)]
 
 # Visualization
 coloc_visualization.ipynb
+
 plot.ipynb
