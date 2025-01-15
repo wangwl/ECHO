@@ -1,7 +1,7 @@
 # Preprocessing
 coloc_preprocessing.ipynb
 
-The processed gwas catalog can be downloaded from figshare ([https://figshare.com/articles/dataset/gwas_catalog_202406/26210795](https://figshare.com/articles/dataset/gwas_catalog_202406/26210795))
+The processed gwas catalog data were uploaded onto figshare ([https://figshare.com/articles/dataset/gwas_catalog_202406/26210795](https://figshare.com/articles/dataset/gwas_catalog_202406/26210795))
 
 # Run coloc
 ```shell
