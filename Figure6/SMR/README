@@ -1,0 +1,22 @@
+1. remake eQTLGen summary statistics in hg38 from hg19
+find.snps.R
+find.gene.cor.R
+
+- see eQTLGen.sh for the scripts calling 
+
+2. make the cis-meQTL SMR input file 
+unfiltered_cis-meQTL.sh
+
+3. run SMR 
+run-eQTLGen-smr.sh
+
+4.select for significant SMR associations 
+select-signif-smr-pairs.R
+
+5. plot 
+plot.SMR.clean.R
+
+inputs
+- eQTLGen_EFEMP2.tsv
+- meQTL_dmr223620.tsv
+- GCST90044763.cc_no_beta_tsv
